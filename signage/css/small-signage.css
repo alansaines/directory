@@ -1,0 +1,55 @@
+/* default font, background color, default black font color, set dimensions for small signage screen */
+body {
+    font-family: Gotham-Medium;
+    background-color: white;
+    color: black;
+    width: 1080px;
+    height: 1920px;
+}
+
+.text-team {
+    font-size: 42px;
+}
+
+.text-body {
+    font-size: 32px;
+}
+
+.text-line {
+    font-size: 26px;
+}
+
+.text-white {
+    color: white;
+}
+
+.text-black {
+    color: black;
+}
+
+.text-gray {
+    color: rgb(92, 91, 94);
+}
+
+.bg-hsc {
+    background-color: rgb(0, 122, 134);
+}
+
+.bg-unm {
+    background-color: rgb(186, 12, 47);
+}
+
+p {
+    margin-bottom: 0.01em;
+}
+
+.tight {
+    padding: 0px;
+    margin: 0px;
+}
+
+.fixed-row-bottom {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
