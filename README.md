@@ -7,11 +7,7 @@ The GUI is connected to a mysql database locally hosted. The signage files pull 
 
 
 Conclusion from project:
-  Work on PHP skills
-        This includes database managing and credentials, fetching information.
-  Consider using Ajax
-        Since most of the changes are minimal, it shouldn't have to refresh or go to a new page for every update.
-  Increase modularity
-        Use of blocks would help with setting up new signage screens more easily and it also makes it easier to understand to         the next person.
-  Naming convention
-        Could use better names to make project files easy to navigate.
+Work on PHP skills: This includes database managing and credentials, fetching information.
+Consider using Ajax: Since most of the changes are minimal, it shouldn't have to refresh or go to a new page for every update.
+Increase modularity: Use of blocks would help with setting up new signage screens more easily and it also makes it easier to understand to the next person.
+Naming convention: Could use better names to make project files easy to navigate.
